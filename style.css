@@ -1,3 +1,9 @@
 h1 {
   font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    text-align: center;
+  
 }
